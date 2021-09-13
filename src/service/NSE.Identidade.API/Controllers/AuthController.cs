@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace NSE.Identidade.API.Controllers
 {
+    // teste git
     [ApiController]
     [Route("api/identidade")]
     public class AuthController : Controller
