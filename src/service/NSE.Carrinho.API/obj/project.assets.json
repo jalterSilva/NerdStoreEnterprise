@@ -604,7 +604,7 @@
       ]
     },
     "System.Runtime.CompilerServices.Unsafe/4.5.2": {
-      "sha512": "hMkdWxksypQlFXB7JamQegDscxEAQO4FHd/lw/zlSZU9dZgAij65xjCrXer183wvoNAzJic5zzjj2oc9/dloWg==",
+      "sha512": "wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
       "type": "package",
       "path": "system.runtime.compilerservices.unsafe/4.5.2",
       "files": [
@@ -728,25 +728,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\curuja\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\jalte\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\curuja\\Documents\\DESENVOLVEDOR IO\\NerdStoreEnterprise\\src\\service\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
+      "projectUniqueName": "C:\\DESENVOLVEDOR IO\\NerdStoreEnterprise\\src\\service\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
       "projectName": "NSE.Carrinho.API",
-      "projectPath": "C:\\Users\\curuja\\Documents\\DESENVOLVEDOR IO\\NerdStoreEnterprise\\src\\service\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
-      "packagesPath": "C:\\Users\\curuja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\curuja\\Documents\\DESENVOLVEDOR IO\\NerdStoreEnterprise\\src\\service\\NSE.Carrinho.API\\obj\\",
+      "projectPath": "C:\\DESENVOLVEDOR IO\\NerdStoreEnterprise\\src\\service\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
+      "packagesPath": "C:\\Users\\jalte\\.nuget\\packages\\",
+      "outputPath": "C:\\DESENVOLVEDOR IO\\NerdStoreEnterprise\\src\\service\\NSE.Carrinho.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\curuja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jalte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -792,12 +793,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.13, 3.1.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -806,7 +801,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
