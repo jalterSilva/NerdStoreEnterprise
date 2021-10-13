@@ -146,7 +146,7 @@ C:\DESENVOLVEDOR IO\NerdStoreEnterprise\src\service\NSE.Identidade.API\obj\Debug
 C:\DESENVOLVEDOR IO\NerdStoreEnterprise\src\service\NSE.Identidade.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Identidade.API.StaticWebAssets.xml
 C:\DESENVOLVEDOR IO\NerdStoreEnterprise\src\service\NSE.Identidade.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\NSE.Identidade.API.styles.css
 C:\DESENVOLVEDOR IO\NerdStoreEnterprise\src\service\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.RazorTargetAssemblyInfo.cache
-C:\DESENVOLVEDOR IO\NerdStoreEnterprise\src\service\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.CopyComplete
 C:\DESENVOLVEDOR IO\NerdStoreEnterprise\src\service\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.dll
 C:\DESENVOLVEDOR IO\NerdStoreEnterprise\src\service\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.pdb
 C:\DESENVOLVEDOR IO\NerdStoreEnterprise\src\service\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.genruntimeconfig.cache
+C:\DESENVOLVEDOR IO\NerdStoreEnterprise\src\service\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.AssemblyReference.cache
